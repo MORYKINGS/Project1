@@ -1,2 +1,6 @@
 # Project1
- Bitcoin Prediction using RNNs and ARIMA
+ Bitcoin Prediction using LSTM and ARIMA
+
+## LSTM
+
+## Arima
