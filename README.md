@@ -1,3 +1,4 @@
+[link the the GitHub reporitory](https://github.com/MORYKINGS/Project1/edit/main/README.md)
 # Bitcoin Time Series Forecasting
 
 This repository contains a Jupyter notebook for forecasting Bitcoin prices using time series analysis techniques. The notebook employs both Long Short-Term Memory (LSTM) neural networks and ARIMA models to predict future Bitcoin prices based on historical data.
