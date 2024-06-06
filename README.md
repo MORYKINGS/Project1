@@ -2,7 +2,10 @@
 
 This repository contains a Jupyter notebook for forecasting Bitcoin prices using time series analysis techniques. The notebook employs both Long Short-Term Memory (LSTM) neural networks and ARIMA models to predict future Bitcoin prices based on historical data.
 
+
+
 ## Contents
+- [How to run](#how-torun)
 
 - [Introduction](#introduction)
 - [Dataset](#dataset)
@@ -16,6 +19,8 @@ This repository contains a Jupyter notebook for forecasting Bitcoin prices using
 - [Requirements](#requirements)
 - [License](#license)
 
+## How to run
+Running and training the LSTM notebook
 ## Introduction
 
 Bitcoin, the first and most well-known cryptocurrency, has a volatile price history. This notebook explores forecasting Bitcoin prices using two different approaches: LSTM neural networks and ARIMA models. The goal is to compare the performance of these models and determine their accuracy in predicting future prices.
