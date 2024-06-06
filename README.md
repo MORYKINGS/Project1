@@ -76,23 +76,3 @@ To run the notebook, follow these steps:
 3. Open the notebook `Bitcoin_Time_Series_Forecasting.ipynb` in Jupyter.
 4. Execute the cells in the notebook to preprocess the data, train the models, and evaluate their performance.
 
-## Requirements
-
-- Python 3.x
-- Jupyter Notebook
-- Pandas
-- NumPy
-- Matplotlib
-- Scikit-learn
-- Keras
-- TensorFlow
-- Statsmodels
-
-You can install the required packages using pip:
-
-```bash
-pip install pandas numpy matplotlib scikit-learn keras tensorflow statsmodels
-
-## LSTM
-
-## Arima
